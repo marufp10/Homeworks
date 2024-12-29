@@ -5,7 +5,8 @@
 ### 🌟 **Learn | Create | Troubleshoot | Fix**  
 Every journey begins with a single step, and mine started with a deep curiosity about technology and problem-solving. From learning to code to exploring cloud technologies, I’m building my future as a DevOps professional, one challenge at a time. 
 
-[Watch on YouTube](https://www.youtube.com/watch?v=IMfBS4mBfBQ&t=1s&ab_channel=GoodWork)
+[![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://www.youtube.com/watch?v=IMfBS4mBfBQ&t=1s&ab_channel=GoodWork)
+
 
 
 
