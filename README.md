@@ -5,11 +5,11 @@
 ### 🌟 **Learn | Create | Troubleshoot | Fix**  
 Every journey begins with a single step, and mine started with a deep curiosity about technology and problem-solving. From learning to code to exploring cloud technologies, I’m building my future as a DevOps professional, one challenge at a time. 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://www.youtube.com/watch?v=hPr-Yc92qaY&ab_channel=A2ZHighlights](https://www.youtube.com/watch?v=Lf3DYRvCPFo&ab_channel=KahanDataSolutions))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.youtube.com/watch?v=hPr-Yc92qaY&ab_channel=A2ZHighlights](https://www.youtube.com/watch?v=Lf3DYRvCPFo&ab_channel=KahanDataSolutions)
 
 ### About Me 📝
 
-> I'm passionate about bridging the gap between development and operations, ensuring seamless CI/CD pipelines and scalable cloud infrastructure. My focus is on learning and leveraging cutting-edge tools to optimize workflows and enhance system reliability.
+> I thrive at the intersection of business needs and technological solutions, leveraging data-driven insights to drive efficiency and innovation. My expertise lies in analyzing requirements, coordinating stakeholders, and ensuring seamless project delivery.
 
 - **Current Goals:**:
   - Diving deeper into customer retention strategies and churn analysis
