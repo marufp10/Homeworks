@@ -7,7 +7,6 @@ Every journey begins with a single step, and mine started with a deep curiosity 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://www.youtube.com/watch?v=hPr-Yc92qaY&ab_channel=A2ZHighlights](https://www.youtube.com/watch?v=Lf3DYRvCPFo&ab_channel=KahanDataSolutions))
 
-
 ### About Me 📝
 
 > I'm passionate about bridging the gap between development and operations, ensuring seamless CI/CD pipelines and scalable cloud infrastructure. My focus is on learning and leveraging cutting-edge tools to optimize workflows and enhance system reliability.
