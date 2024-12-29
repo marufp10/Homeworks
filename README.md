@@ -5,7 +5,7 @@
 ### 🌟 **Learn | Create | Troubleshoot | Fix**  
 Every journey begins with a single step, and mine started with a deep curiosity about technology and problem-solving. From learning to code to exploring cloud technologies, I’m building my future as a DevOps professional, one challenge at a time. 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.youtube.com/watch?v=hPr-Yc92qaY&ab_channel=A2ZHighlights](https://www.youtube.com/watch?v=Lf3DYRvCPFo&ab_channel=KahanDataSolutions)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)]([https://www.youtube.com/watch?v=hPr-Yc92qaY&ab_channel=A2ZHighlights](https://www.linkedin.com/login))
 
 ### About Me 📝
 
